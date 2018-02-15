@@ -3,7 +3,7 @@
 # Creates a folder in the current path and copies the image into the folder
 
 import dicom
-import os,sys, numpy
+import os,sys
 import shutil
 
 try:
